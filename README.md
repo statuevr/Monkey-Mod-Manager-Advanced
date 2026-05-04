@@ -9,6 +9,8 @@ An advanced and easy-to-use mod manager for Gorilla Tag. Get into modding with j
 
 ## Preview
 
+<img width="990" height="676" alt="image" src="https://github.com/user-attachments/assets/1ec7edb7-bfb2-401d-9126-7b6ed145ee99" />
+
 
 ## Installation
 1. Go to the [Releases](
