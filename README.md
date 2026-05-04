@@ -1,6 +1,14 @@
-# Monkey-Mod-Manager-Advanced
-Monkey Mod Manager Advanced what is this This is Monkey Mod Manager
+# Monkey Mod Manager V2 (Beta)
 
-Manager 
+An advanced and easy-to-use mod manager for Gorilla Tag. Get into modding with just a simple click of an EXE.
 
-made by VSM We love it so much we hope it gets in the gorilla modding server it's very good and it runs great! 
+## Features
+- **Easy Setup:** Quick one-click execution to launch.
+- **Enhanced UI Visuals:** Features dynamic motion effects as you navigate.
+- **Beta Access:** Actively testing new features for future library integration.
+
+## Preview
+
+
+## Installation
+1. Go to the [Releases](
